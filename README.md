@@ -18,7 +18,9 @@ GET http://localhost:9000/api/v0/clinic/doctors
 GET http://localhost:9000/api/v0/clinic/doctors/1/availabilities?start=2020-10-27&end=2020-11-01
 
 
-POST http://localhost:9000/api/v0/clinic/appointment HTTP/1.1
+POST http://localhost:9000/api/v0/clinic/appointment
+
+
 content-type: application/json
 
 {
