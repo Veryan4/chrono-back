@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "date": {
+            "year": 2020,
+            "month": 10,
+            "day": 29
+        },
+        "timeSlotId": 2,
+        "patientId": null,
+        "doctorId": 1
+    },
+    {
+        "id": 2,
+        "date": {
+            "year": 2020,
+            "month": 10,
+            "day": 30
+        },
+        "timeSlotId": 3,
+        "patientId": null,
+        "doctorId": 1
+    },
+    {
+        "id": 3,
+        "date": {
+            "year": 2020,
+            "month": 10,
+            "day": 31
+        },
+        "timeSlotId": 4,
+        "patientId": null,
+        "doctorId": 1
+    }
+]
